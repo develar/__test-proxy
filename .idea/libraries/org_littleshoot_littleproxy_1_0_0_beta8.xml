@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.littleshoot:littleproxy:1.0.0-beta8" type="repository">
+    <properties maven-id="org.littleshoot:littleproxy:1.0.0-beta8" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/littleproxy-1.1.0-beta1-SNAPSHOT-littleproxy-shade.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../LittleProxy/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
