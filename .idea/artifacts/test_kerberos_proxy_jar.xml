@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test-kerberos-proxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="test-kerberos-proxy.jar">
+      <element id="module-output" name="test-proxy" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-simple-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/littleproxy-1.1.0-beta1-SNAPSHOT-littleproxy-shade.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
